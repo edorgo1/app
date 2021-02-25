@@ -16,7 +16,7 @@ class MainActivity2 : AppCompatActivity(), View.OnClickListener {
 
     private var btnsing_up: Button? = null
     private var btnsing_up_google: Button? = null
-    private var emailRegister: EditText? = null
+     private var emailRegister: EditText? = null
     private var password1Register: EditText? = null
     private var usernameRegister: EditText? = null
 
